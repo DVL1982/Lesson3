@@ -1,0 +1,31 @@
+#mainhead {
+	 color: red; 
+}
+
+.text1 {
+	color:blue;
+}
+
+.maintext {
+
+
+}
+
+.maintext > p{
+	color:blueviolet;
+}
+
+.facelift,
+.description,
+.link {
+	color:coral;
+}
+
+.pricing,
+.text3  {
+	color:deeppink;
+}
+
+.terms {
+	color:cyan;
+}
